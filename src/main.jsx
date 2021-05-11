@@ -7,5 +7,5 @@ ReactDOM.render(
   <React.StrictMode>
     <CharacterContainer name="asd" />
   </React.StrictMode>,
-  document.getElementById(".")
+  document.getElementById("/")
 );
